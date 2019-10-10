@@ -1,4 +1,4 @@
-package by.kudko.graph;
+package by.kudko.graph.width;
 
 import java.util.ArrayList;
 import java.util.List;

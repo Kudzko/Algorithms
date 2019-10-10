@@ -1,4 +1,4 @@
-package by.kudko.graph;
+package by.kudko.graph.width;
 
 import java.util.HashMap;
 import java.util.List;
